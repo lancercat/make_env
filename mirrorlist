@@ -1,0 +1,12 @@
+##
+## Manjaro Linux default mirrorlist
+## Generated on 2022-07-14 15:54
+##
+## Please use 'pacman-mirrors -f [NUMBER] [NUMBER]' to modify mirrorlist
+## (Use 0 for all mirrors)
+##
+
+Server = https://mirrors.ustc.edu.cn/manjaro/stable/$repo/$arch
+Server = https://mirrors.ustc.edu.cn/manjaro/stable/$repo/$arch
+Server = https://mirrors.ustc.edu.cn/manjaro/stable/$repo/$arch
+Server = https://mirrors.ustc.edu.cn/manjaro/stable/$repo/$arch
