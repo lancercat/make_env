@@ -1,5 +1,5 @@
 echo "installing torch scatter"
- unzip vision-0.13.0.zip -d build/
- cd build/vision-0.13.0
+unzip pylcs-laser.zip -d build/
+cd build/pylcs-laser
 python setup.py install --user
 echo "done installing torch scatter"
