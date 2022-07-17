@@ -136,6 +136,7 @@ expat
 f2fs-tools
 faac
 faad2
+unzip
 fakeroot
 ffmpeg
 ffmpeg4.4
