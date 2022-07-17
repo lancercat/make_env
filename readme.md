@@ -9,14 +9,14 @@ Also a feasible script to set up enviornment for beginners.
 
 ## Usage
 
-Fresh install Manjaro
+1. Fresh install Manjaro
 
-If you need a guide:
-https://www.youtube.com/watch?v=bofM9tuZUs4&ab_channel=KskRoyal
+  If you need a guide:
+  https://www.youtube.com/watch?v=bofM9tuZUs4&ab_channel=KskRoyal
 
 
-sh 01-pacman.sh
+2. sh 01-pacman.sh
 
-sudo reboot;
+3. sudo reboot;
 
-sh 02-pip.sh
+4. sh 02-pip.sh
