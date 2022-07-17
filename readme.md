@@ -4,6 +4,7 @@ The scripts to setup enviornments for the OSOCR family on arch-based systems.
 
 Also a feasible script to set up enviornment for beginners.
 
+A kind remider: Always audit downloaded scripts before running them.
 
 
 
