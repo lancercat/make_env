@@ -13,8 +13,12 @@ Also a feasible script to set up enviornment for beginners.
     - If you need a guide: https://www.youtube.com/watch?v=bofM9tuZUs4&ab_channel=KskRoyal
 
 
-2. sh 01-pacman.sh
+2. git clone https://github.com/lancercat/make_env.git
 
-3. sudo reboot;
+3. cd make_env
 
-4. sh 02-pip.sh
+4. sh 01-pacman.sh
+
+5. sudo reboot;
+
+6. sh 02-pip.sh
