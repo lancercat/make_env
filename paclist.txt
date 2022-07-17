@@ -131,7 +131,6 @@ elfutils
 elisa
 emovix
 enchant
-exfat-utils
 exiv2
 expat
 f2fs-tools
