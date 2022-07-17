@@ -11,8 +11,7 @@ Also a feasible script to set up enviornment for beginners.
 
 1. Fresh install Manjaro
 
-  If you need a guide:
-  https://www.youtube.com/watch?v=bofM9tuZUs4&ab_channel=KskRoyal
+  1.1 If you need a guide: https://www.youtube.com/watch?v=bofM9tuZUs4&ab_channel=KskRoyal
 
 
 2. sh 01-pacman.sh
