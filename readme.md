@@ -23,3 +23,10 @@ A kind remider: Always audit downloaded scripts before running them.
 5. sudo reboot;
 
 6. sh 02-pip.sh
+
+## extra scripts
+
+1. run ssh.sh to enable SSH with X11 forwarding
+
+2. run latex.sh to install latex related package for paper writting/editing.
+
