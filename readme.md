@@ -1,5 +1,5 @@
 [UPD]
-Torchvision 013 does not work with pytorch 113. We are updating it to torchvision 114. Hang on.
+Torchvision 013 does not work with pytorch 113. We are updating it to torchvision 014. Hang on.
 
 
 # Enviornment Scripts
