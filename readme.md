@@ -37,5 +37,9 @@ A kind remider: Always audit downloaded scripts before running them.
 
 ## Update history
 
-11-23-2022: torchvision updates from 0.13 to 0.14
+### 11-23-2022
+Torchvision updates from 0.13 to 0.14.
+
+Kernels are now configured in the kernel.sh file.
+
 
