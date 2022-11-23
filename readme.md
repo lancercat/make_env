@@ -1,3 +1,7 @@
+[UPD]
+Torchvision 013 does not work with pytorch 113. We are updating it to torchvision 114. Hang on.
+
+
 # Enviornment Scripts
 
 The scripts to setup enviornments for the OSOCR family on arch-based systems.
@@ -29,4 +33,9 @@ A kind remider: Always audit downloaded scripts before running them.
 1. run ssh.sh to enable SSH with X11 forwarding
 
 2. run latex.sh to install latex related package for paper writting/editing.
+
+
+## Update history
+
+11-23-2022: torchvision updates from 0.13 to 0.14
 
