@@ -1040,6 +1040,7 @@ python-scipy
 python-scikit-learn
 python-setuptools
 python-six
+python-tqdm
 python-toml
 python-tomli
 python-typing_extensions
