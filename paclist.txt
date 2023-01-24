@@ -1036,6 +1036,7 @@ python-requests
 python-resolvelib
 python-retrying
 python-scipy
+python-scikit-learn
 python-setuptools
 python-six
 python-toml
