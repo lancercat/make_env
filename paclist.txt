@@ -1027,6 +1027,7 @@ python-pycurl
 python-pyopenssl
 python-pyparsing
 python-pyqt5
+python-pyqtgraph
 python-pyqt5-sip
 python-pysmbc
 python-pytorch-cuda
