@@ -33,6 +33,13 @@ A kind remider: Always audit downloaded scripts before running them.
 2. run latex.sh to install latex related package for paper writting/editing.
 
 
+## Trouble Shooting
+
+Upgrading system with pacman can break the pip dependency, causing SIGSEGVs. 
+
+So it is recommended to uninstall pip packages and reinstall them after a system upgrade.
+
+
 ## Update history
 
 ### 11-23-2022
