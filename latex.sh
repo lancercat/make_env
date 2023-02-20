@@ -1,1 +1,1 @@
-sudo pacman -S texlive-latexextra texlive-publishers texlive-science texstudio
+sudo pacman -S texlive-bibtexextra texlive-fontsextra texlive-formatsextra texlive-latexextra texlive-pictures texlive-pstricks texlive-publishers texlive-science texstudio
