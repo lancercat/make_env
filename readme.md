@@ -8,6 +8,10 @@ Also a feasible script to set up deep learning (pytorch-cuda-pycharm) enviornmen
 
 A kind remider: Always audit downloaded scripts before running them.
 
+[UPD] Please refrain from upgrading systems these few days, as a handful things are quite quirky and need patches.
+If torch scatter fails to build with cuda12, try the following solution:
+https://github.com/pybind/pybind11/issues/4606#issuecomment-1498131493
+
 
 
 ## Usage
