@@ -12,6 +12,9 @@ A kind remider: Always audit downloaded scripts before running them.
 If torch scatter fails to build with cuda12, try the following solution:
 https://github.com/pybind/pybind11/issues/4606#issuecomment-1498131493
 
+Or
+
+Execute the patch_pybind.sh 
 
 
 ## Usage
@@ -24,7 +27,9 @@ https://github.com/pybind/pybind11/issues/4606#issuecomment-1498131493
 
 3. cd make_env
 
-4. sh 01-pacman.sh
+4-a. sh 01-pacman.sh
+
+4-b. sh patch_pybind.sh
 
 5. sudo reboot;
 
