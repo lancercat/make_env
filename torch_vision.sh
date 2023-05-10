@@ -1,4 +1,4 @@
-TVVer=0.15.1
+TVVer=0.15.2
 echo "installing torch "
 rm v${TVVer}
 #rm build/ -r
