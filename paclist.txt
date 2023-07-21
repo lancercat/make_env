@@ -1288,3 +1288,4 @@ zstd
 zvbi
 zxing-cpp
 numactl
+python-torchvision-cuda
