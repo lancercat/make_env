@@ -33,6 +33,12 @@ A kind reminder: Always audit downloaded scripts before running them.
 
 
 ## Update history
+### 11-19-2023
+Torchvision in Archrepo has expired (the binaries are built with cuda12.2, but the current cuda version is 12.3), before the upstream rebuilds it you will need to build it yourself. 
+
+Plus, you will need to install gcc12 to build it, bcs CUDA123 does not work with gcc-13x.
+https://bbs.archlinux.org/viewtopic.php?id=289968
+
 ### 07-21-2023
 Manjaro and Arch now officially support torchvision, so we moved it from 02-pip to paclist.
 
