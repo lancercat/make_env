@@ -38,7 +38,7 @@ Torch-scatter does not love glog-0.7, you need to manully change the setup.py
 
 https://github.com/rusty1s/pytorch_scatter/issues/443
 
-Manully describe how grumpy I am right now.
+Manul-ly describe how grumpy I am right now.
 
 
 ### 11-19-2023
