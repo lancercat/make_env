@@ -33,6 +33,14 @@ A kind reminder: Always audit downloaded scripts before running them.
 
 
 ## Update history
+### 05-20-2024
+Torch-scatter does not love glog-0.7, you need to manully change the setup.py
+
+https://github.com/rusty1s/pytorch_scatter/issues/443
+
+Manully describe how grumpy I am right now.
+
+
 ### 11-19-2023
 Torchvision in Archrepo has expired (the binaries are built with cuda12.2, but the current cuda version is 12.3), before the upstream rebuilds it you will need to build it yourself. 
 
